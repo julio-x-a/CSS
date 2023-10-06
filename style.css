@@ -1,0 +1,10 @@
+/* @import url('node_modules/normalize.css/normalize.css'); */
+
+* {
+    font-family: sans-serif;
+}
+
+.cursive {
+    font-style: italic;
+}
+
